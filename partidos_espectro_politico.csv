@@ -1,30 +1,30 @@
-﻿cod_partido;partido_nome;partido_sigla;cod_espectro;espectro_politico;;;;;;
-70;Avante;Avante;1;Centro;;;;;;
-15;Movimento Democrático Brasileiro;MDB;1;Centro;;;;;;
-27;Democracia Cristã;DC;3;Direita;;;;;;
-13;Partido dos Trabalhadores;PT;2;Esquerda;;;;;;
-25;Democratas;DEM;3;Direita;;;;;;
-45;Partido da Social Democracia Brasileira;PSDB;1;Centro;;;;;;
-11;Progressistas;PP;3;Direita;;;;;;
-30;Partido Novo;NOVO;3;Direita;;;;;;
-12;Partido Democrático Trabalhista;PDT;2;Esquerda;;;;;;
-51;Patriota;Patriota;3;Direita;;;;;;
-14;Partido Trabalhista Brasileiro;PTB;3;Direita;;;;;;
-65;Partido Comunista do Brasil;PCdoB;2;Esquerda;;;;;;
-22;Partido Liberal;PL;3;Direita;;;;;;
-40;Partido Socialista Brasileiro;PSB;2;Esquerda;;;;;;
-35;Partido da Mulher Brasileira;PMB;3;Direita;;;;;;
-10;Republicanos;Republicanos;3;Direita;;;;;;
-33;Partido da Mobilização Nacional;PMN;2;Esquerda;;;;;;
-23;Cidadania;Cidadania;2;Esquerda;;;;;;
-19;Podemos;PODE;3;Direita;;;;;;
-17;Partido Social Liberal;PSL;3;Direita;;;;;;
-20;Partido Social Cristão;PSC;3;Direita;;;;;;
-90;Partido Republicano da Ordem Social;PROS;1;Centro;;;;;;
-55;Partido Social Democrático;PSD;3;Direita;;;;;;
-28;Partido Renovador Trabalhista Brasileiro;PRTB;3;Direita;;;;;;
-43;Partido Verde;PV;2;Esquerda;;;;;;
-77;Solidariedade;Solidariedade;1;Centro;;;;;;
-36;Partido Trabalhista Cristão;PTC;3;Direita;;;;;;
-50;Partido Socialismo e Liberdade;PSOL;2;Esquerda;;;;;;
-18;Rede Sustentabilidade;REDE;2;Esquerda;;;;;;
+﻿cod_partido;partido_nome;partido_sigla;cod_espectro;espectro_politico
+70;Avante;Avante;1;Centro
+15;Movimento Democrático Brasileiro;MDB;1;Centro
+27;Democracia Cristã;DC;3;Direita
+13;Partido dos Trabalhadores;PT;2;Esquerda
+25;Democratas;DEM;3;Direita
+45;Partido da Social Democracia Brasileira;PSDB;1;Centro
+11;Progressistas;PP;3;Direita
+30;Partido Novo;NOVO;3;Direita
+12;Partido Democrático Trabalhista;PDT;2;Esquerda
+51;Patriota;Patriota;3;Direita
+14;Partido Trabalhista Brasileiro;PTB;3;Direita
+65;Partido Comunista do Brasil;PCdoB;2;Esquerda
+22;Partido Liberal;PL;3;Direita
+40;Partido Socialista Brasileiro;PSB;2;Esquerda
+35;Partido da Mulher Brasileira;PMB;3;Direita
+10;Republicanos;Republicanos;3;Direita
+33;Partido da Mobilização Nacional;PMN;2;Esquerda
+23;Cidadania;Cidadania;2;Esquerda
+19;Podemos;PODE;3;Direita
+17;Partido Social Liberal;PSL;3;Direita
+20;Partido Social Cristão;PSC;3;Direita
+90;Partido Republicano da Ordem Social;PROS;1;Centro
+55;Partido Social Democrático;PSD;3;Direita
+28;Partido Renovador Trabalhista Brasileiro;PRTB;3;Direita
+43;Partido Verde;PV;2;Esquerda
+77;Solidariedade;Solidariedade;1;Centro
+36;Partido Trabalhista Cristão;PTC;3;Direita
+50;Partido Socialismo e Liberdade;PSOL;2;Esquerda
+18;Rede Sustentabilidade;REDE;2;Esquerda
