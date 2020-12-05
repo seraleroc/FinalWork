@@ -1,4 +1,4 @@
-﻿cod_partido;partido_nome;partido_sigla;cod_espectro;espectro_politico
+﻿NR_PARTIDO;NM_PARTIDO;SG_PARTIDO;cod_espectro;espectro_politico
 70;Avante;Avante;1;Centro
 15;Movimento Democrático Brasileiro;MDB;1;Centro
 27;Democracia Cristã;DC;3;Direita
